@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [launch rediff money app]">
+  <test name="MyWatchlist Testcase(failed)">
+    <classes>
+      <class name="testrunners.myWatchlistTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- testrunners.myWatchlistTest -->
+    </classes>
+  </test> <!-- MyWatchlist Testcase(failed) -->
+</suite> <!-- Failed suite [launch rediff money app] -->

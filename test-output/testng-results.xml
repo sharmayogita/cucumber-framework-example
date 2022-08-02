@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="launch rediff money app" duration-ms="75980" started-at="2022-06-28T22:37:51Z" finished-at="2022-06-28T22:39:07Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testrunners.myWatchlistTest@43a25848]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="MyWatchlist Testcase" duration-ms="75980" started-at="2022-06-28T22:37:51Z" finished-at="2022-06-28T22:39:07Z">
+      <class name="testrunners.myWatchlistTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testrunners.myWatchlistTest@43a25848]" name="setUpClass" is-config="true" duration-ms="1533" started-at="2022-06-28T15:37:51Z" finished-at="2022-06-28T15:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testrunners.myWatchlistTest@43a25848]" name="feature" duration-ms="74192" started-at="2022-06-28T15:37:52Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-06-28T15:39:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[launch My Watchlist]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testrunners.myWatchlistTest@43a25848]" name="tearDownClass" is-config="true" duration-ms="6" started-at="2022-06-28T15:39:07Z" finished-at="2022-06-28T15:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testrunners.myWatchlistTest -->
+    </test> <!-- MyWatchlist Testcase -->
+  </suite> <!-- launch rediff money app -->
+</testng-results>

@@ -1,0 +1,20 @@
+<suite name="launch rediff money app">
+ <!-- <test name="Login Testcase">
+	<classes>
+		<class name="testrunners.loginTest"></class>
+	</classes>
+</test>
+ 
+<test name="MyPortfolio Testcase">
+	<classes>
+		<class name="testrunners.myPortfolioTestStocks"></class>
+	</classes>
+</test>
+ -->
+<test name="MyWatchlist Testcase">
+	<classes>
+		<class name="testrunners.myWatchlistTest"></class>
+	</classes>
+</test>
+
+</suite>
